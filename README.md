@@ -2,6 +2,7 @@
 针对Arcaea guessc猜曲绘玩法的辅助工具。随机截取一张曲绘的一部分，复制进入guessc工具，自动完成完整曲绘识别。
 
 一、关于使用
+
 1.首先完整下载并解压压缩包
 <img width="767" height="422" alt="图片" src="https://github.com/user-attachments/assets/b7cfd218-5759-4b9d-abec-44d53272d43a" />
 
@@ -13,12 +14,14 @@
 
 
 二、关于曲库
+
 曲库资源在resources目录下，包含images和songlist.json
 songlist.json包含 songid、title、artist、image等曲目信息；
 images是曲绘库，包含arc7.0.260全部曲绘图片。
 
 
 三、曲库更新
+
 Arcaea每次更新幅度较小，推荐手动更新：
 1.将相应新曲曲绘粘贴至images目录下，图片格式不限；
 2.再编辑songlist.jaon，补充曲目的标题、曲师、路径等信息；
@@ -26,6 +29,7 @@ Arcaea每次更新幅度较小，推荐手动更新：
 
 
 四、部分识别案例
+
 1.常规曲绘识别
 <img width="1018" height="715" alt="图片" src="https://github.com/user-attachments/assets/d230730d-fe7d-4678-8f82-55294dd9ffc1" />
 <img width="1021" height="726" alt="图片" src="https://github.com/user-attachments/assets/657015eb-5802-479e-ab11-b31dbcc98047" />
