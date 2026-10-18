@@ -1,0 +1,2 @@
+# Arcaea_guessc_helper
+针对Arcaea guessc猜曲绘玩法的辅助工具。随机截取一张曲绘的一部分，复制进入guessc工具，自动完成完整曲绘识别
